@@ -1,2 +1,3 @@
-bash sdk.sh
-luego perdira contraseña den darsela
+ejecuta estos dos comandos 
+bash tmux.sh
+sudo bash sdk.sh
