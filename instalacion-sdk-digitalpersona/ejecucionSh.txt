@@ -1,0 +1,2 @@
+bash sdk.sh
+luego perdira contraseña den darsela
