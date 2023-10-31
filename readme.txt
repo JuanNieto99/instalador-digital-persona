@@ -1,4 +1,4 @@
-como instalar en wondows el huellero 
+como instalar en windows el huellero 
 
 - 1 instalar WSL en windows en mi caso use "https://www.microsoft.com/store/productid/9PDXGNCFSCZV?ocid=pdpshare" y ejecutar  e instalar con doble click el archivo "usbipd-win_3.2.0"
 
